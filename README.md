@@ -9,6 +9,7 @@ This repository contains scripts for descriptive statistical analysis of the `So
 - `visualizations.py`: Generates histograms, bar charts, and boxplots (bonus).
 - `requirements.txt`: Python dependencies for pandas, polars, matplotlib, seaborn.
 - `SocialMediaTop100.csv`: The dataset (add this file to the repo, not included here).
+- **Original dataset:** [Top 100 Social Media Profiles on Kaggle](https://www.kaggle.com/datasets/medaxone/top-100-social-media-profiles?resource=download)
 
 ## Instructions
 1. Install dependencies:
@@ -37,3 +38,5 @@ This repository contains scripts for descriptive statistical analysis of the `So
 ---
 
 **Note:** Please add the dataset file (`SocialMediaTop100.csv`) to the repository before running the scripts. 
+
+**Data Source:** [Top 100 Social Media Profiles on Kaggle](https://www.kaggle.com/datasets/medaxone/top-100-social-media-profiles?resource=download) 
